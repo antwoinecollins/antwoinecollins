@@ -17,7 +17,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Endpoint-Monitoring/tree/main">SOC Automation Lab</a> |
 | Incident Response Planning and Execution      | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Incident-Response-Case-Management/tree/main">SOC Automation Lab</a> |
 | Case Management with TheHive                  | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Security-Automation/tree/main">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/AntwoineCollins/SOC-Automation-Lab">SOC Automation Lab</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Attack-Simulation">SOC Automation Lab</a> |
 | Home Cybersecurity Lab | <a href="https://github.com/AntwoineCollins/Home-Lab">Home Lab</a> |
 
 ## Tools
