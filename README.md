@@ -18,7 +18,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 | Incident Response Planning and Execution      | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Incident-Response-Case-Management">SOC Detection Lab - Incident Response & Case Management</a> |
 | Case Management with TheHive                  | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Incident-Response-Case-Management">SOC Detection Lab - Incident Response & Case Management</a> |
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Endpoint-Monitoring">SOC Detection Lab - Endpoint Monitoring & Automation</a> |
-| Home Cybersecurity Lab | <a href="https://github.com/AntwoineCollins/Home-Lab">Home Lab</a> |
+| Home Cybersecurity Lab | <a href="https://github.com/antwoinecollins/Home-Cybersecurity-Lab">Home Lab</a> |
 
 
 ## Tools
