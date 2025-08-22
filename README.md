@@ -11,7 +11,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|------------------|
-| Penetration Testing and Vulnerability Assessment | <a href="https://github.com/antwoinecollins/Asset-Management-Firm">Asset Management Pentest</a> |
+| Penetration Testing and Vulnerability Assessment | <a href="https://github.com/antwoinecollins/Asset-Management-Firm">Financial Services Firm – Internal Penetration Test</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-SIEM-Implementation">SOC Detection Lab - SIEM Implementation</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Network-Traffic-Monitoring">SOC Detection Lab - Network Traffic Monitoring</a> |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Security-Automation">SOC Detection Lab - Security Automation</a> |
