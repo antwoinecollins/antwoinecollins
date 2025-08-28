@@ -12,12 +12,6 @@ My goal is to leverage my experience in penetration testing, purple team operati
 | Skill                                         | Associated Project |
 |-----------------------------------------------|------------------|
 | Penetration Testing and Vulnerability Assessment | <a href="https://github.com/antwoinecollins/Asset-Management-Firm">Financial Services Firm – Internal Penetration Test</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-SIEM-Implementation">SOC Detection Lab - SIEM Implementation</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Network-Traffic-Monitoring">SOC Detection Lab - Network Traffic Monitoring</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Security-Automation">SOC Detection Lab - Security Automation</a> |
-| Incident Response Planning and Execution      | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Incident-Response-Case-Management">SOC Detection Lab - Incident Response & Case Management</a> |
-| Case Management with TheHive                  | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Incident-Response-Case-Management">SOC Detection Lab - Incident Response & Case Management</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-Endpoint-Monitoring">SOC Detection Lab - Endpoint Monitoring & Automation</a> |
 | Home Cybersecurity Lab | <a href="https://github.com/antwoinecollins/Home-Cybersecurity-Lab">Home Lab</a> |
 
 
