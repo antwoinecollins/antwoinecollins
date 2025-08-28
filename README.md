@@ -53,6 +53,18 @@ My goal is to leverage my experience in penetration testing, purple team operati
     <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Projects / Portfolio
+- **Internal Penetration Test – Financial Services Firm:**  
+  Black-box internal assessment, host/service enumeration, vulnerability identification, and actionable remediation recommendations.
+
+- **Home Cybersecurity Lab:**  
+  Full SOC environment simulation with network segmentation, SIEM monitoring, automated endpoint detection, and pentesting capabilities.
+
+- **Detection Lab:**  
+  Build & simulate attack paths in virtual environments for skill development.
+
+- **SOC Automation Project:**  
+  Automating alerting, detection, and incident response workflows using Shuffle SOAR and Velociraptor.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/antwoinecollins)
