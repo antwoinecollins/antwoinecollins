@@ -13,7 +13,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 |-----------------------------------------------|------------------|
 | Penetration Testing and Vulnerability Assessment | <a href="https://github.com/antwoinecollins/Asset-Management-Firm">Financial Services Firm – Internal Penetration Test</a> |
 | Home Cybersecurity Lab | <a href="https://github.com/antwoinecollins/Home-Cybersecurity-Lab">Home Lab</a> |
-
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-SIEM-Implementation">SOC Detection Lab - SIEM Implementation</a> |
 
 ## Tools
 
