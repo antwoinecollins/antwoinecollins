@@ -61,7 +61,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
   Full SOC environment simulation with network segmentation, SIEM monitoring, automated endpoint detection, and pentesting capabilities.
 
 - **Detection Lab:**  
-  Build & simulate attack paths in virtual environments for skill development.
+  Build & simulate attack paths in virtual environments for skill development. (in progress)
 
 - **SOC Automation Project:**  
   Automating alerting, detection, and incident response workflows using Shuffle SOAR and Velociraptor.
