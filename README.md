@@ -1,7 +1,10 @@
 # Hello, I'm Antwoine Collins
 <a href="https://www.linkedin.com/in/antwoinecollins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity professional with hands-on experience in penetration testing, SOC operations, and vulnerability assessments. I enjoy solving complex security challenges, building automated detection systems, and improving organizational security posture.
+🎯 Cybersecurity Professional | Penetration Testing | SOC | Security+
+Hands-on labs, projects, and reports showcasing offensive/defensive skills.
+
+I am a cybersecurity professional with hands-on experience in penetration testing, SOC operations, and vulnerability assessments. I enjoy solving complex security challenges, building automated AI detection systems, and improving organizational security posture.
 
 ## Objective
 
