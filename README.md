@@ -18,6 +18,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 | Home Cybersecurity Lab | <a href="https://github.com/antwoinecollins/Home-Cybersecurity-Lab">Home Lab</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-SIEM-Implementation">SOC Detection Lab - SIEM Implementation</a> |
 | Wireshark Lab DNS Tunneling Traffic Analysis          | <a href="https://github.com/antwoinecollins/Wireshark-Lab-DNS-Tunneling-Traffic-Analysis">WireShark Lab - DNS Tunneling Traffic Analysis</a> |
+| Cloud Security (AWS)                          | <a href="https://github.com/antwoinecollins/lab01-s3-static-website">AWS
 
 ## Tools
 
