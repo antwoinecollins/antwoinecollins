@@ -1,4 +1,6 @@
-# <img src="https://github.com/antwoinecollins/antwoinecollins/blob/main/logo.png" alt="Antwoine Collins Logo" width="500"/>
+# <p align="center">
+  <img src="https://github.com/antwoinecollins/antwoinecollins/blob/main/logo.png" alt="Antwoine Collins Logo" width="500"/>
+</p>
 <a href="https://www.linkedin.com/in/antwoinecollins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🎯 Cybersecurity Professional | Penetration Testing | SOC | Security+
