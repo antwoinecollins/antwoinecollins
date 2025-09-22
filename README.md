@@ -19,6 +19,7 @@ My goal is to leverage my experience in penetration testing, purple team operati
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/antwoinecollins/SOC-Detection-Lab-SIEM-Implementation">SOC Detection Lab - SIEM Implementation</a> |
 | Wireshark Lab DNS Tunneling Traffic Analysis          | <a href="https://github.com/antwoinecollins/Wireshark-Lab-DNS-Tunneling-Traffic-Analysis">WireShark Lab - DNS Tunneling Traffic Analysis</a> |
 | Cloud Security (AWS)                          | <a href="https://github.com/antwoinecollins/lab01-s3-static-website">AWS
+| PHP Security Remediation           | <a href="https://github.com/antwoinecollins/php-security-remediation">End-to-End Remediation of a Critical PHP Security Vulnerability</a> |
 
 ## Tools
 
